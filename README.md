@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapan Kumer Das</h1>
-<h3 align="center">Passionate and goal-orientated developer with 12+ years of experience in web development. PHP & JavaScript enthusiast who works in several frameworks and libraries especially in WordPress, Laravel, CodeIgniter, jQuery, ReactJS. A passionate developer from India</h3>
+<h3 align="center">Passionate and goal-orientated developer with 12+ years of experience in web development. PHP & JavaScript enthusiast who works in several frameworks and libraries especially in WordPress, Laravel, CodeIgniter, jQuery, ReactJS. A passionate developer from EARTH.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voboghure-dev&label=Profile%20views&color=0e75b6&style=flat" alt="voboghure-dev" /> </p>
 
